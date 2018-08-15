@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/qbart/kemal-healthcheck-handler.svg?branch=master)](https://travis-ci.org/qbart/kemal-healthcheck-handler)
+
 # Kemal healthcheck handler
 
 > Handler that returns 200 ok page for /healthcheck in Kemal.
