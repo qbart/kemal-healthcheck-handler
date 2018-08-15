@@ -1,0 +1,11 @@
+name: kemal_healthcheck_handler
+version: 1.0.0
+
+authors:
+  - Bartłomiej Wójtowicz
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
