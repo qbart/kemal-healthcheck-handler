@@ -10,14 +10,14 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  kemal-healthcheck-handler:
+  healthcheck_handler:
     github: qbart/kemal-healthcheck-handler
 ```
 
 ## Usage
 
 ```crystal
-require "kemal-healthcheck-handler"
+require "healthcheck_handler"
 
 add_handler(HealthcheckHandler.new)
 ```

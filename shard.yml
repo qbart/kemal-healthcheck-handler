@@ -1,4 +1,4 @@
-name: kemal_healthcheck_handler
+name: healthcheck_handler
 version: 1.0.0
 
 authors:
